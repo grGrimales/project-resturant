@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "project-restaurant"
+    }
+  },
+  "defaultProject": "project-restaurant",
+  "cli": {
+    "analytics": false
+  }
 }
